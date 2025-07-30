@@ -1,4 +1,4 @@
-# 🔐 GeoCrypt: Location-Locked Encryption Tool
+# 🔐 GeoCrypt: Location-Locked Decryption Tool
 
 **GeoCrypt** is a web-based encryption-decryption system that ensures data can only be decrypted at a specific physical location. It uses [ChaCha20Poly1305](https://en.wikipedia.org/wiki/ChaCha20) encryption, geofencing with the Haversine formula, and PBKDF2 key derivation to prevent data interception or leakage during transmission.
 
