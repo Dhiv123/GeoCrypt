@@ -2,7 +2,7 @@
 
 **GeoCrypt** is a web-based encryption-decryption system that ensures data can only be decrypted at a specific physical location. It uses [ChaCha20Poly1305](https://en.wikipedia.org/wiki/ChaCha20) encryption, geofencing with the Haversine formula, and PBKDF2 key derivation to prevent data interception or leakage during transmission.
 
-[![Try GeoCrypt Live](https://geoencryption-kw33.onrender.com/login)
+[Try GeoCrypt Live](https://geoencryption-kw33.onrender.com/login)
 
 ---
 
